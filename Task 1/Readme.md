@@ -9,7 +9,9 @@ Dataset-Link: https://archive.ics.uci.edu/ml/datasets/Iris
 Training a ML Model
 
 from sklearn.linear_model import LogisticRegression
+
 model = LogisticRegression()
+
 model.fit(x_train,y_train)
 
 LogisticRegression()
