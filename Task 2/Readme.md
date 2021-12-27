@@ -27,6 +27,7 @@ Step 9: Original v/s Pencil Sketch
 Result:-
 
 Accuracy of Image to Pencil Sketch with Python:- 98%
+
 Accuracy of Image to Pencil Sketch with Python:- 100%
 
 Thank you!!!
