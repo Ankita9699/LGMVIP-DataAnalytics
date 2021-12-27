@@ -6,7 +6,7 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 
 Dataset-Link: https://archive.ics.uci.edu/ml/datasets/Iris
 
-Training a ML Model
+Training a ML Model:-
 
 from sklearn.linear_model import LogisticRegression
 
